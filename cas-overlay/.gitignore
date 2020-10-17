@@ -5,10 +5,5 @@
 target/
 .idea/
 .DS_Store
-.idea
-overlays/
-.gradle/
-build/
-bin/
 *.iml
 *.log
